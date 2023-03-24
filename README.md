@@ -12,7 +12,7 @@ I am an Aerospace Engineer turned Full-Stack Software Engineer. This GitHub acco
 - Bootstrap
 - HTML5/CSS3
 - AWS (EC2, S3, RDS, Lambda, Elastic Beanstalk)
-- SQL (PostgreSQL, MySWL)
+- SQL (PostgreSQL, MySQL)
 - Standard Python Data Science Libraries
   - Numpy
   - Pandas
