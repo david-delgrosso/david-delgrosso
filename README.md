@@ -24,6 +24,9 @@ I am an Aerospace Engineer turned Full-Stack Software Engineer. This GitHub acco
 - R/R Studio
 - Tableau/Qlik (Data Visualization)
 
+***Disclaimer:***
+Many of my repos are private for security purposes. I am happy to temporarily add any recruiters as collaborators to view my code.
+
 <!--
 **david-delgrosso/david-delgrosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
